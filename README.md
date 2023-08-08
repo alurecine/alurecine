@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Java and Swift
-- 🌱 I’m currently learning everything i can
+- 🌱 Currently learning everything i can, focused on Swift (UIKit & SwiftUI).
 - 📫 How to reach me: alurecine@gmail.com
 - ⚡ For fun: Playing CSGO, or playing (and trying to produce) techno music
 
